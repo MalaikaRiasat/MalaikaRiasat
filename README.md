@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react,flutter,python**
 
-- 💬 Ask me about **Python , C++ basics**
+- 💬 Ask me about **Python , HTML ,CSS ,JS**
 
 - 📫 How to reach me **malaikariasat560@gmail.com**
 
