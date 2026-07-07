@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python , HTML ,CSS ,JS**
 
-- 📫 How to reach me **malaikariasat560@gmail.com**
+- 📫 How to reach me **malaika.202404824@gcuf.edu.pk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
